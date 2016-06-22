@@ -1,8 +1,8 @@
 title: Bezier Curve GLFW
 author:
-  name: Sean Connolly
+  name: Benjamin Robbins
   email:
-  github: maegico
+  github:
 description: This example rather than dealing with static meshes, deals with dynamically generated shapes based on Bernstein polynomials.
 language: C++
 image:
